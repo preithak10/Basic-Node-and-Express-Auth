@@ -4,9 +4,9 @@ Search endpoint: `/search`
 
 Query param: `q="query topic"`
 
-Host URL: `https://pencil-be-assignment.herokuapp.com/`
+Host URL: `https://app-url/`
 
-Demo Search URL: `https://pencil-be-assignment.herokuapp.com/search?q="Cell surface membrane"`
+Demo Search URL: `https://app-url/search?q="Cell surface membrane"`
 
 Returns a response of format `{"status":"Success","data":[array of question numbers]}`
 
